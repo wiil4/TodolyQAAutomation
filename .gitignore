@@ -1,0 +1,36 @@
+# Compiled object files
+*.suo
+*.obj
+*.dll
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.sln.docstates
+
+# Compiled Dynamic Link Libraries
+*.lib
+*.a
+*.dll
+
+# Visual Studio files
+.vs/
+/.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+todoistFlow
+QAAutomationProject/
